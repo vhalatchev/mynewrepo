@@ -1,1 +1,2 @@
 Sample text goes here that will need to be fixed. (In place of the JS script the author is using).
+Adding more text i.e. fixing the bug.
